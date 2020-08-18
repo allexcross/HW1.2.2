@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Просмотр фотографий</string>
+    <string name="backButton"> \u25c0\u25c0 </string>
+    <string name="fwdButton"> \u25b6\u25b6 </string>
+    <string name="urlString">http://myfile.org/%d</string>
+
+</resources>
